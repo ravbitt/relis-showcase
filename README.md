@@ -6,7 +6,7 @@ Relis modela el esqueleto de madera de un mueble (palos, uniones, tornillos y
 corchetes) en un editor 3D en el navegador, con el objetivo de bajar
 automáticamente esa forma a despiece y plan de corte para la fábrica.
 
-🔗 **Demo en vivo:** [relis.vercel.app](https://relis.vercel.app) <!-- TODO: reemplazar por la URL real -->
+🔗 **Demo en vivo:** [relis-showcase.ravbit.dev](https://relis-showcase.ravbit.dev)
 
 > El código fuente es privado (proyecto en desarrollo con fines comerciales).
 > Si quieres revisarlo en el contexto de un proceso de selección, escríbeme y
@@ -51,6 +51,7 @@ muebles.
 - **opencascade.js** (OpenCASCADE compilado a WASM, ~63 MB) cargado bajo demanda en un Web Worker
 - **Tailwind v4 + shadcn/ui**
 - Persistencia local por ahora; backend planificado con FastAPI + PostgreSQL
+- Desplegado con Docker + nginx en servidor propio (Coolify, detrás de Cloudflare)
 
 ## Desafíos técnicos destacados
 
