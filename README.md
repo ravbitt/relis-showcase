@@ -8,6 +8,10 @@ automáticamente esa forma a despiece y plan de corte para la fábrica.
 
 🔗 **Demo en vivo:** [relis-showcase.ravbit.dev](https://relis-showcase.ravbit.dev)
 
+> **Para entrar a la demo:** usa cualquier correo y cualquier contraseña. El
+> login es simulado, no hay cuentas reales. Todo lo que modeles se guarda solo
+> en tu navegador (localStorage).
+
 > El código fuente es privado (proyecto en desarrollo con fines comerciales).
 > Si quieres revisarlo en el contexto de un proceso de selección, escríbeme y
 > te doy acceso.
