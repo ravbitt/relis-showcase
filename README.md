@@ -84,6 +84,6 @@ salida de despiece.
 
 ---
 
-**Joaquín Contreras** · [LinkedIn](#) · [Email](mailto:joaquin.contreras.dp@gmail.com) <!-- TODO: link de LinkedIn -->
+**Joaquín Contreras** · [LinkedIn](https://www.linkedin.com/in/joaquin-contreras-pino/) · [Email](mailto:joaquin.contreras.dp@gmail.com)
 
 © 2026 Joaquín Contreras. Todos los derechos reservados.
